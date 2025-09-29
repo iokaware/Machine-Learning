@@ -1,5 +1,5 @@
 # Machine-Learning
-Notebooks, Practical Examples Datasets and Resources for Machine Learning Course - ENGS3303
+Notebooks, Practical Examples, Datasets, and Resources for Machine Learning Course - ENGS3303
 
 Al-Aqsa University - Gaza
 
